@@ -11,3 +11,10 @@ Using the following [guide](https://docs.grails.org/6.2.0/guide/single.html#crea
 
 1. `cd mygrailsapp`
 2. `./gradlew bootRun`
+3. Go to `http://localhost:8080/`
+
+### Creating a controller 
+
+1. `cd mygrailsapp`
+2. `grails`
+3. `grails> create-controller greeting`
